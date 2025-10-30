@@ -1,4 +1,4 @@
-📖 Sobre o Projeto
+#📖 Sobre o Projeto
 O Hello, Girls! é uma iniciativa dedicada a promover e incentivar a participação feminina na área de tecnologia e computação. Acreditamos que a diversidade de gênero é essencial para a inovação e desenvolvimento de soluções mais criativas e inclusivas.
 
 🎯 Objetivos
